@@ -1,0 +1,60 @@
+{
+  "title": "Water Conservation Tips",
+  "language": "en",
+  "voice": "female_us",
+  "metadata": {
+    "author": "DoodleEduMaker Team",
+    "description": "Educational video about saving water at home",
+    "duration_estimate": "3 minutes"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Water is our most precious resource. Every drop counts!",
+      "visual_description": "Drawing of Earth with water droplets surrounding it, simple line art style",
+      "duration": "auto"
+    },
+    {
+      "id": 2,
+      "narration": "Turning off the tap while brushing your teeth can save 200 gallons of water per month.",
+      "visual_description": "Bathroom sink with running faucet and toothbrush, water drops falling",
+      "duration": "auto"
+    },
+    {
+      "id": 3,
+      "narration": "Fix leaky faucets immediately. A single drip can waste over 3000 gallons per year.",
+      "visual_description": "Faucet with water dripping, with numbers showing gallons wasted",
+      "duration": "auto"
+    },
+    {
+      "id": 4,
+      "narration": "Take shorter showers. Reducing shower time by just 2 minutes saves 10 gallons.",
+      "visual_description": "Shower head with clock showing time saved, water flowing",
+      "duration": "auto"
+    },
+    {
+      "id": 5,
+      "narration": "Only run dishwashers and washing machines with full loads.",
+      "visual_description": "Dishwasher and washing machine side by side, both full",
+      "duration": "auto"
+    },
+    {
+      "id": 6,
+      "narration": "Collect rainwater for your garden. It's free and reduces tap water usage.",
+      "visual_description": "Rain barrel collecting water with garden plants nearby",
+      "duration": "auto"
+    },
+    {
+      "id": 7,
+      "narration": "Use a broom instead of a hose to clean driveways and sidewalks.",
+      "visual_description": "Broom cleaning driveway, water hose crossed out",
+      "duration": "auto"
+    },
+    {
+      "id": 8,
+      "narration": "Together, we can make a difference. Start saving water today!",
+      "visual_description": "Hands holding water droplets with Earth in background, hopeful message",
+      "duration": "auto"
+    }
+  ]
+}

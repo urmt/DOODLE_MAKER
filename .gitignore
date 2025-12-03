@@ -1,0 +1,135 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/
+
+# AI Models (large files - download separately)
+models/*.pth
+models/*.safetensors
+models/*.ckpt
+models/*.bin
+models/stable-diffusion-*
+models/controlnet-*
+models/tts-*
+!models/.gitkeep
+
+# Cache
+cache/
+*.cache
+__pycache__/
+
+# Generated Videos
+output/
+exports/
+*.mp4
+*.webm
+*.mov
+!examples/*.mp4
+!examples/*.webm
+
+# Generated Images
+generated/
+*.png
+*.jpg
+*.jpeg
+!src/ui/resources/icons/*.png
+!docs/images/*.png
+!examples/reference_images/*.jpg
+
+# User Data
+user_projects/
+*.project
+
+# Logs
+logs/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Package Build
+*.tar.gz
+*.whl
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.tox/
+.nox/
+
+# Documentation Build
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Environment Variables
+.env
+.env.local
+
+# Backup Files
+*.bak
+*.backup

@@ -1,0 +1,55 @@
+# DoodleEduMaker Requirements
+# Python >=3.10 required
+
+# GUI Framework
+PySide6>=6.6.0
+
+# AI/ML Core - PyTorch
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# Diffusion Models
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate>=0.25.0
+
+# Image Processing
+Pillow>=10.1.0
+opencv-python>=4.8.0
+controlnet-aux>=0.0.7
+
+# Text-to-Speech
+TTS>=0.22.0
+piper-tts>=1.2.0
+
+# Video Processing
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0
+imageio>=2.33.0
+imageio-ffmpeg>=0.4.9
+
+# Scientific Computing
+numpy>=1.24.0,<2.0.0
+scipy>=1.11.0
+
+# Data Validation & Parsing
+jsonschema>=4.20.0
+pyyaml>=6.0.1
+markdown>=3.5.0
+python-frontmatter>=1.1.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.66.0
+colorama>=0.4.6
+python-dotenv>=1.0.0
+
+# Performance Optimization
+bitsandbytes>=0.41.0
+safetensors>=0.4.0
+omegaconf>=2.3.0
+einops>=0.7.0
+
+# Logging
+loguru>=0.7.2
